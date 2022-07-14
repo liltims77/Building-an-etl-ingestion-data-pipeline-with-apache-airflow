@@ -1,4 +1,4 @@
-# Building-and-ingesting-data-through-pipeline
+# Building-and-ingesting-data-pipeline-with-ETL-process
 This project involves building an ETL pipeline for a data set transforming data into scripts, storing and querying in postgres database (Pgcli and Pgadmin). Ingested data is then dockerized and Apache Airflow is used to monitor data workflow in AWS cloud storage.
 
 # Project Description
