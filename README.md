@@ -10,12 +10,12 @@ This project involves building pipeline for a data sets. The data sets (Ny_taxi)
 3. postgres database was created (pgcli)
 4. dataset was downloaded
 5. jupyter-notebook was used to  create dataframe and insert dataset into pgcli chunk bu chunk
-pgadmin database was created and merged with pgcli
-pgadmin db was used to query data using postgresql
-dataset was converted into scripts, and ingested into docker chunk bu chunk
-airflow dags was created and inserted into aws s3
-Amanzon Managed Workflow for Apache airflow enviroment was also created, dags requirements.txt folder were inserted to create the airflow user interface
-AWS airflow user interface was used to monitor workflow schedules and time.
+6. pgadmin database was created and merged with pgcli.
+7. pgadmin db was used to query data using postgresql
+8. dataset was converted into scripts, and ingested into docker chunk bu chunk
+9. airflow dags was created and inserted into aws s3
+10. Amanzon Managed Workflow for Apache airflow enviroment was also created, dags requirements.txt folder were inserted to create the airflow user interface
+11. AWS airflow user interface was used to monitor workflow schedules and time.
 
 
 # Airflow
