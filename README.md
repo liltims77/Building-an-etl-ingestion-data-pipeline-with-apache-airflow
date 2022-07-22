@@ -27,10 +27,6 @@ The airflow graph view
 
 ![Screenshot 2022-07-13 234808](https://user-images.githubusercontent.com/41475769/179023421-d716c18e-3a8a-4de4-bde3-f0348cf921cf.png)
 
-# NOTE
-This project was done on a windows machine
-
-
 
 The airflow tree view
 ![Screenshot 2022-07-13 234626](https://user-images.githubusercontent.com/41475769/179023639-f1f90fb3-f3e7-448b-8080-3c6be2361c4d.png)
